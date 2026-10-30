@@ -1,10 +1,20 @@
+# Moved to the Shilin brand website
+
+Current website: https://shilin-walk-map.github.io/
+
+Current repository: https://github.com/shilin-walk-map/shilin-walk-map.github.io
+
+This repository preserves the previous links and redirects visitors to the matching language page.
+
+---
+
 # Shilin Night Market walking map
 
 Multilingual food map with zoom, shop and landmark details, Google Maps / Apple Maps walking directions, and MRT / bus information.
 
-Website: https://dailysupportguide.github.io/shilin-night-market-map/
+Website: https://shilin-walk-map.github.io/
 
-Language pages: [ja](https://dailysupportguide.github.io/shilin-night-market-map/ja/) · [zh-hant-hk](https://dailysupportguide.github.io/shilin-night-market-map/zh-hant-hk/) · [ko](https://dailysupportguide.github.io/shilin-night-market-map/ko/) · [en-us](https://dailysupportguide.github.io/shilin-night-market-map/en-us/) · [zh-hans](https://dailysupportguide.github.io/shilin-night-market-map/zh-hans/) · [en-ph](https://dailysupportguide.github.io/shilin-night-market-map/en-ph/) · [en-sg](https://dailysupportguide.github.io/shilin-night-market-map/en-sg/) · [vi](https://dailysupportguide.github.io/shilin-night-market-map/vi/) · [th](https://dailysupportguide.github.io/shilin-night-market-map/th/) · [en-my](https://dailysupportguide.github.io/shilin-night-market-map/en-my/) · [en](https://dailysupportguide.github.io/shilin-night-market-map/en/) · [zh-hant](https://dailysupportguide.github.io/shilin-night-market-map/zh-hant/)
+Language pages: [ja](https://shilin-walk-map.github.io/ja/) · [zh-hant-hk](https://shilin-walk-map.github.io/zh-hant-hk/) · [ko](https://shilin-walk-map.github.io/ko/) · [en-us](https://shilin-walk-map.github.io/en-us/) · [zh-hans](https://shilin-walk-map.github.io/zh-hans/) · [en-ph](https://shilin-walk-map.github.io/en-ph/) · [en-sg](https://shilin-walk-map.github.io/en-sg/) · [vi](https://shilin-walk-map.github.io/vi/) · [th](https://shilin-walk-map.github.io/th/) · [en-my](https://shilin-walk-map.github.io/en-my/) · [en](https://shilin-walk-map.github.io/en/) · [zh-hant](https://shilin-walk-map.github.io/zh-hant/)
 
 ## Hosting
 
