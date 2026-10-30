@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dailysupportguide.github.io/shilin-night-market-map/sitemap.xml
